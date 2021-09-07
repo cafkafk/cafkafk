@@ -1,3 +1,7 @@
 👋 Hi :wave:
 
+I'm a student interested in functional operating systems, functional programming, and further just
+anything tech.
 
+GPG key id: 7B9E E848 D074 AE03 7A0C 651A 8ED4 DEF7 375A 30C8
+I use this key to sign my commits, and never commit without signing (as authorship is easily faked)
