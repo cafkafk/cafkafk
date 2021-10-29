@@ -2,3 +2,22 @@
 
 GPG key id: 7B9E E848 D074 AE03 7A0C 651A 8ED4 DEF7 375A 30C8
 I use this key to sign my commits, and never commit without signing (as authorship is easily faked)
+
+# Github activity
+http://catb.org/~esr/writings/unix-koans/hardware-designer.html
+On one occasion, as Master Foo was traveling to a conference with a few of his senior disciples, he was accosted by a hardware designer.
+
+The hardware designer said: “It is rumored that you are a great programmer. How many lines of code do you write per year?”
+
+Master Foo replied with a question: “How many square inches of silicon do you lay out per year?”
+
+“Why...we hardware designers never measure our work in that way,” the man said.
+
+“And why not?” Master Foo inquired.
+
+“If we did so,” the hardware designer replied, “we would be tempted to design chips so large that they cannot be fabricated - and, if they were fabricated, their overwhelming complexity would make it be impossible to generate proper test vectors for them.”
+
+Master Foo smiled, and bowed to the hardware designer.
+
+In that moment, the hardware designer achieved enlightenment.
+
