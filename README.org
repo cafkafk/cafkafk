@@ -3,6 +3,8 @@
 GPG key id: 7B9E E848 D074 AE03 7A0C 651A 8ED4 DEF7 375A 30C8
 I use this key to sign my commits, and never commit without signing (as authorship is easily faked)
 
+#+html: <img src="https://github-readme-stats.vercel.app/api?username=cafkafk"></img>
+
 * Github activity
 http://catb.org/~esr/writings/unix-koans/hardware-designer.html
 On one occasion, as Master Foo was traveling to a conference with a few of his senior disciples, he was accosted by a hardware designer.
