@@ -2,7 +2,7 @@
 Hi! I'm a math student in my twenties having a quarter way crisis about the lack of software in my life. 
 
 
-#+html: <img src="https://github-readme-stats.vercel.app/api?username=cafkafk"></img>
+#+html: <img src="https://github-readme-stats.vercel.app/api?username=cafkafk&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_title=true"></img>
 
 I don't know what I'm doing here most of the time.
 
