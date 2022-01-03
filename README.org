@@ -3,6 +3,8 @@ Hi! I'm a math student in my twenties having a quarter way crisis about the lack
 
 
 #+html: <img src="https://github-readme-stats.vercel.app/api?username=cafkafk&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_title=true"></img>
+#+html: <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafkafk&layout=compact&hide=css,shell,makefile"></img>
+
 
 I don't know what I'm doing here most of the time.
 
