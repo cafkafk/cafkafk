@@ -1,5 +1,15 @@
 * I will be using git.cafkafk.com for the forseable future
+This is a direct (but heavily delayed) repsonse to Microsoft <3 linux.
 
+The nail in the coffin was copilot. I can't believe they did that.
+
+Like actually.
+
+https://www.gnu.org/software/repo-criteria-evaluation.html#GitHub
+
+https://www.fsf.org/news/publication-of-the-fsf-funded-white-papers-on-questions-around-copilot
+
+I needed to practice what I preached on this one... took a while but here I am.
 
 
 ** My github page
