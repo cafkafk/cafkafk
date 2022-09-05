@@ -5,6 +5,8 @@ for her twenties.
 
 You can see more about me at my [[https://cafkafk.com][personal webpage]].
 
+Recently I started trying to contribute a bit to NixOS.
+
 **** GPG
 I use this key to sign my commits.
 
