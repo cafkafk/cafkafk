@@ -1,48 +1,23 @@
-* I will be using git.cafkafk.com for the forseable future
-This is a direct (but heavily delayed) repsonse to Microsoft <3 linux.
+* About Me
+I'm basically an independent software consultant that 
+happens to study mathematics to have something to show
+for her twenties.
 
-The nail in the coffin was copilot. I can't believe they did that.
-
-Like actually.
-
-https://www.gnu.org/software/repo-criteria-evaluation.html#GitHub
-
-https://www.fsf.org/news/publication-of-the-fsf-funded-white-papers-on-questions-around-copilot
-
-I needed to practice what I preached on this one... took a while but here I am.
-
-
-** My github page
-Hi! I'm a math student in my twenties having a quarter way crisis about the lack of software in my life. 
-
-
-#+html: <img src="https://github-readme-stats.vercel.app/api?username=cafkafk&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_title=true"></img>
-#+html: <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafkafk&layout=compact&hide=css,shell,makefile"></img>
-
-
-I don't know what I'm doing here most of the time.
+You can see more about me at my [[https://cafkafk.com][personal webpage]].
 
 **** GPG
+I use this key to sign my commits.
+
 GPG key id: 7B9E E848 D074 AE03 7A0C 651A 8ED4 DEF7 375A 30C8
-I use this key to sign my commits, and never commit without signing (as authorship is easily faked)
 
-**** Github activity (commit graph)
-#+begin_quote
-On one occasion, as Master Foo was traveling to a conference with a few of his senior disciples, he was accosted by a hardware designer.
+My goal is to never commit without signing (as authorship is easily faked).
 
-The hardware designer said: “It is rumored that you are a great programmer. How many lines of code do you write per year?”
+**** Contact
+- @cafkafk:matrix.cafkafk.com
 
-Master Foo replied with a question: “How many square inches of silicon do you lay out per year?”
+**** Why is everything archived
+I prefer to use my own [[https://git.cafkafk.com][git server (git.cafkafk.com)]].
 
-“Why...we hardware designers never measure our work in that way,” the man said.
 
-“And why not?” Master Foo inquired.
-
-“If we did so,” the hardware designer replied, “we would be tempted to design chips so large that they cannot be fabricated - and, if they were fabricated, their overwhelming complexity would make it be impossible to generate proper test vectors for them.”
-
-Master Foo smiled, and bowed to the hardware designer.
-
-In that moment, the hardware designer achieved enlightenment.
-
---- [[http://catb.org/~esr/writings/unix-koans/hardware-designer.html][esr unix koans]]
-#+end_quote
+#+html: <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafkafk&layout=compact&hide=css,shell,makefile"></img>
+# #+html: <img src="https://github-readme-stats.vercel.app/api?username=cafkafk&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_title=true"></img>
