@@ -10,7 +10,9 @@ Recently I started trying to contribute a bit to NixOS.
 **** GPG
 I use this key to sign my commits.
 
-GPG key id: 7B9E E848 D074 AE03 7A0C 651A 8ED4 DEF7 375A 30C8
+GPG key fingerprints: 
+7B9E E848 D074 AE03 7A0C 651A 8ED4 DEF7 375A 30C8
+208A 2A66 8A2F CDE7 B5D3  8F64 CDDC 792F 6552 51ED 
 
 My goal is to never commit without signing (as authorship is easily faked).
 
