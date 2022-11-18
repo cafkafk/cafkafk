@@ -29,6 +29,3 @@ I prefer to use my own [[https://git.cafkafk.com][git server (git.cafkafk.com)]]
 #+html: <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafkafk&layout=compact&hide=css,shell,makefile"></img>
 # #+html: <img src="https://github-readme-stats.vercel.app/api?username=cafkafk&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_title=true"></img>
 
-**** The hacktober thing (I'm trying to be less cynical don't bully me)
-#+html: <img src="https://holopin.io/api/user/board?user=cafkafk">
-
