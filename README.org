@@ -13,10 +13,6 @@ GPG key fingerprints:
 
 My goal is to never commit without signing (as authorship is easily faked).
 
-**** Contact
-- @cafkafk:matrix.cafkafk.com
-- https://pleroma.cafkafk.com/cafkafk
-
 **** Why is everything archived
 I prefer to use my own [[https://git.cafkafk.com][git server (git.cafkafk.com)]].
 
