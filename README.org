@@ -1,6 +1,8 @@
 
 My ISP has been unreliable for months.
 
+In the meanwhile, I check irc.libera.chat a few times a day.
+
 When that's resolved, [[https://cafkafk.com][cafkafk.com]].
 
 I sometimes use [[https://git.cafkafk.com][git.cafkafk.com]]
@@ -8,3 +10,4 @@ I sometimes use [[https://git.cafkafk.com][git.cafkafk.com]]
 7B9E E848 D074 AE03 7A0C 651A 8ED4 DEF7 375A 30C8
 
 208A 2A66 8A2F CDE7 B5D3  8F64 CDDC 792F 6552 51ED
+
