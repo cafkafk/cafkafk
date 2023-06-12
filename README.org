@@ -1,9 +1,4 @@
-
-My ISP has been unreliable for months.
-
-In the meanwhile, I check irc.libera.chat a few times a day.
-
-When that's resolved, [[https://cafkafk.com][cafkafk.com]].
+[[https://cafkafk.com][cafkafk.com]]
 
 I sometimes use [[https://git.cafkafk.com][git.cafkafk.com]]
 
