@@ -1,3 +1,5 @@
+#+HTML_ATTR: :align center
+[[https://raw.githubusercontent.com/cafkafk/cafkafk/main/bloat.jpg]]
 
 #+begin_src:
 She can kill all your files;
