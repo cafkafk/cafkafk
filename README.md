@@ -25,9 +25,13 @@ She lives like a bat but she's always a hacker to me.
 
 ### pgp keys
 
-7B9E E848 D074 AE03 7A0C 651A 8ED4 DEF7 375A 30C8
+**Active**:
 
-208A 2A66 8A2F CDE7 B5D3  8F64 CDDC 792F 6552 51ED
+[expires: 2023-09-13]: 208A 2A66 8A2F CDE7 B5D3  8F64 CDDC 792F 6552 51ED
+
+**Expired**:
+
+[expired: 2023-08-21]: 7B9E E848 D074 AE03 7A0C 651A 8ED4 DEF7 375A 30C8
 
 #
 ![](https://komarev.com/ghpvc/?username=cafkafk) 
