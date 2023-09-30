@@ -1,4 +1,5 @@
-![](https://raw.githubusercontent.com/cafkafk/cafkafk/main/bloat.jpg)
+![IMG_5835](https://github.com/cafkafk/cafkafk/assets/89321978/3b509f04-234a-493f-82a1-546670be6cfc)
+
 
 [![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/)
 [![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)](https://clang.llvm.org/)
