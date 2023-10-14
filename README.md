@@ -22,6 +22,24 @@ And she works on her code until ten after three.
 She lives like a bat but she's always a hacker to me.
 ```
 
+### software
+
+[![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/) [EZA: a modern, maintained replacement for ls](https://github.com/eza-community/eza)
+
+[![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/) [powertest: trycmd test generator (wip)](https://github.com/eza-community/powertest)
+
+[![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/) [fortune-kind: A new kinda fortune](https://github.com/cafkafk/fortune-kind)
+
+[![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/) [seidr: declarative stow clone](https://github.com/cafkafk/seidr)
+
+[![Haskell](https://img.shields.io/badge/-Haskell-141414?style=flat&logo=haskell)](https://www.haskell.org/) [maid: clean your folders](https://github.com/cafkafk/maid)
+
+[![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)](https://clang.llvm.org/) [li: simple, safe laptop backlight](https://github.com/cafkafk/li)
+
+[![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)](https://clang.llvm.org/) [ncrc: net-cat relay chat](https://github.com/cafkafk/ncrc)
+
+[![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)](https://clang.llvm.org/) [qmk-firmware: my keyboard layout](https://github.com/cafkafk/qmk_firmware)
+
 #
 
 ### pgp keys
