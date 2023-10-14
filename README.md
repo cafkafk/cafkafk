@@ -30,9 +30,9 @@ She lives like a bat but she's always a hacker to me.
 
 [expires: 2024-08-24]: 2ABF AD31 1946 163C D3D5  E09C 26C5 42FD 97F9 65CE
 
-**Expired**:
+[expires: 2024-09-13]: 208A 2A66 8A2F CDE7 B5D3  8F64 CDDC 792F 6552 51ED
 
-[expired: 2023-09-13]: 208A 2A66 8A2F CDE7 B5D3  8F64 CDDC 792F 6552 51ED
+**Expired**:
 
 [expired: 2023-08-21]: 7B9E E848 D074 AE03 7A0C 651A 8ED4 DEF7 375A 30C8
 
