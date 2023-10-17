@@ -40,6 +40,8 @@ She lives like a bat but she's always a hacker to me.
 
 [![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)](https://clang.llvm.org/) [qmk-firmware: my keyboard layout](https://github.com/cafkafk/qmk_firmware)
 
+[![fish](https://img.shields.io/badge/-fish-141414?style=flat&logo=gnubash)](https://tiswww.case.edu/php/chet/bash/bashtop.html) [pass-crypt-mount: easily mounting LUKS volumes via pass](https://github.com/cafkafk/pass-crypt-mount)
+
 #
 
 ### pgp keys
