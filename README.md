@@ -1,5 +1,4 @@
-![IMG_6606](https://github.com/cafkafk/cafkafk/assets/89321978/f7a4d705-dd77-4ff5-bfef-1a99765534c8)
-
+![279933981-d1ff9f28-cf52-4f84-b23f-bd730c83b23b](https://github.com/cafkafk/cafkafk/assets/89321978/3498eb53-b979-4c8e-8187-4d9a68b7b497)
 
 [![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/)
 [![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)](https://clang.llvm.org/)
