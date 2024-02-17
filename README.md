@@ -1,4 +1,4 @@
-![279933981-d1ff9f28-cf52-4f84-b23f-bd730c83b23b](https://github.com/cafkafk/cafkafk/assets/89321978/3498eb53-b979-4c8e-8187-4d9a68b7b497)
+![eza-rises](https://github.com/cafkafk/cafkafk/assets/89321978/d113d3d1-170e-4132-bfec-1be93f4d07d9)
 
 [![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/)
 [![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)](https://clang.llvm.org/)
@@ -21,7 +21,9 @@ And she works on her code until ten after three.
 She lives like a bat but she's always a hacker to me.
 ```
 
-### software
+<details>
+  <summary>Quick links to some software I make</summary>
+
 
 [![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/) [EZA: a modern, maintained replacement for ls](https://github.com/eza-community/eza)
 
@@ -41,9 +43,11 @@ She lives like a bat but she's always a hacker to me.
 
 [![fish](https://img.shields.io/badge/-fish-141414?style=flat&logo=gnubash)](https://tiswww.case.edu/php/chet/bash/bashtop.html) [pass-crypt-mount: mount LUKS volumes via pass](https://github.com/cafkafk/pass-crypt-mount)
 
-#
+  
+</details>
 
-### pgp keys
+<details>
+  <summary>Active and expired GPG keys</summary>
 
 **Active**:
 
@@ -54,6 +58,8 @@ She lives like a bat but she's always a hacker to me.
 **Expired**:
 
 [expired: 2023-08-21]: 7B9E E848 D074 AE03 7A0C 651A 8ED4 DEF7 375A 30C8
+
+</details>
 
 #
 ![](https://komarev.com/ghpvc/?username=cafkafk) 
