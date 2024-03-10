@@ -1,4 +1,5 @@
-![eza-rises](https://github.com/cafkafk/cafkafk/assets/89321978/d113d3d1-170e-4132-bfec-1be93f4d07d9)
+# Anduril at NixCon NA :(
+![nixos-smol](https://github.com/cafkafk/cafkafk/assets/89321978/f28afcef-6cc0-407e-af87-b9a5dc0b0487)
 
 [![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/)
 [![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)](https://clang.llvm.org/)
