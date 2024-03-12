@@ -1,6 +1,10 @@
 # Anduril at NixCon NA :(
 ![nixos-smol](https://github.com/cafkafk/cafkafk/assets/89321978/f28afcef-6cc0-407e-af87-b9a5dc0b0487)
 
+# [Sign the Open Letter from NixOS Users Against MIC Sponsorship](https://github.com/NixOS-Users-Against-MIC-Sponsorship/NixOS-Users-Against-MIC-Sponsorship.github.io)
+
+---
+
 [![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/)
 [![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)](https://clang.llvm.org/)
 [![Haskell](https://img.shields.io/badge/-Haskell-141414?style=flat&logo=haskell)](https://www.haskell.org/)
