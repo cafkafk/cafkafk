@@ -1,4 +1,6 @@
-[![TransHydra](https://github.com/cafkafk/cafkafk/assets/89321978/5fb79331-85aa-4f03-8afe-323fda65f9cb)](https://knowyourmeme.com/memes/trans-hydra-gender-ideology-hydra)
+<!-- [![TransHydra](https://github.com/cafkafk/cafkafk/assets/89321978/5fb79331-85aa-4f03-8afe-323fda65f9cb)](https://knowyourmeme.com/memes/trans-hydra-gender-ideology-hydra) -->
+![auceos](https://github.com/cafkafk/cafkafk/assets/89321978/1291e589-2e79-41b1-ad92-e53e04475e24)
+
 
 ---
 
