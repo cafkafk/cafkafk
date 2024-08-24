@@ -55,9 +55,9 @@ She lives like a bat but she's always a hacker to me.
 
 **Active**:
 
-[expires: 2024-08-24]: 2ABF AD31 1946 163C D3D5  E09C 26C5 42FD 97F9 65CE
+[expires: 2025-08-25]: 2ABF AD31 1946 163C D3D5  E09C 26C5 42FD 97F9 65CE
 
-[expires: 2024-09-13]: 208A 2A66 8A2F CDE7 B5D3  8F64 CDDC 792F 6552 51ED
+[expires: 2025-01-19]: 208A 2A66 8A2F CDE7 B5D3  8F64 CDDC 792F 6552 51ED
 
 **Expired**:
 
