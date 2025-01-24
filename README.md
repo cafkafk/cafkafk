@@ -1,4 +1,9 @@
 ```
+The Guild navigators, gifted with limited prescience, had made the fatal
+decision: they'd chosen always the clear, safe course that leads ever downward
+into stagnation.
+```
+```
 The thoughts of others
 Were light and fleeting,
 Of contributors meeting
@@ -8,11 +13,6 @@ Mine were of semver,
 And mine were steady,
 So I was ready
 When breakage came.
-```
-```
-The Guild navigators, gifted with limited prescience, had made the fatal
-decision: they'd chosen always the clear, safe course that leads ever downward
-into stagnation.
 ```
 
 **GPG Keys**:
