@@ -1,10 +1,20 @@
-**About**:
 ```
-NixOS, Rust, and Infra.
+The thoughts of others
+Were light and fleeting,
+Of contributors meeting
+Or sponsors or fame.
 
-Learning and doing better is good. 
-Please bear with me, I'm doing my best.
+Mine were of semver,
+And mine were steady,
+So I was ready
+When breakage came.
 ```
+```
+The Guild navigators, gifted with limited prescience, had made the fatal
+decision: they'd chosen always the clear, safe course that leads ever downward
+into stagnation.
+```
+
 **GPG Keys**:
 
 [find public keys here (cross reference below)](https://pgp.fem.gg/pks/lookup?search=christina&fingerprint=on&hash=on&op=vindex)
