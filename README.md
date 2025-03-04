@@ -1,18 +1,8 @@
+![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)
 ```
 The Guild navigators, gifted with limited prescience, had made the fatal
 decision: they'd chosen always the clear, safe course that leads ever downward
 into stagnation.
-```
-```
-The thoughts of others
-Were light and fleeting,
-Of contributors meeting
-Or sponsors or fame.
-
-Mine were of semver,
-And mine were steady,
-So I was ready
-When breakage came.
 ```
 
 **GPG Keys**:
@@ -31,3 +21,5 @@ When breakage came.
 <small>DBC Digital</small>
 
 `0A98 A4FB CC09 4F22 A71D  3F7B E10B 19D7 90E2 4C96`
+
+![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)![](https://s3.us-west-000.backblazeb2.com/nyaabucket/5ad28bd32dca5c46cefe03fd6b2f1fb965c65caaa281c50b2fe70a60e71ff096/animated-haskell.gif)
