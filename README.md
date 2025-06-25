@@ -1,5 +1,4 @@
 # Christina Sørensen — @cafkafk
-Infrastructure Developer, doing DevOps for the Danish Library Center.
 
 My open-source activities mainly include:
 - Being the BDFL of [eza](https://github.com/cafkafk/eza), a project with users.
