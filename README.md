@@ -1,19 +1,17 @@
 # Christina Sørensen — @cafkafk
 
-My open-source activities mainly include:
-- Being the BDFL of [eza](https://github.com/cafkafk/eza), a project with users.
-- Contributing - and mostly reviewing - as a [NixOS](https://github.com/nixos/nixpkgs) committer.
-- Various Rust ecosystem work (https://crates.io/users/cafkafk).
+My open-source activities:
+- Being the creator of [eza](https://github.com/cafkafk/eza).
+- Contributing as a [NixOS](https://github.com/nixos/nixpkgs) committer.
+- Various [Rust ecosystem work](https://crates.io/users/cafkafk).
 - Occassional Cloud Native contributions.
 
-My experience:
+My other activities:
 - Currently working in a HealthTech startup. 
 - Worked on Danish critical infrastructure.
 - Did (does) software consulting.
 - Studied pure math.
 - Worked at a Digital Agency startup.
-
-
 
 ## **GPG Keys**:
 
