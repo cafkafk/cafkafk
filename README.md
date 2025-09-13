@@ -6,7 +6,12 @@ My open-source activities mainly include:
 - Various Rust ecosystem work (https://crates.io/users/cafkafk).
 - Occassional Cloud Native contributions.
 
-My background is in university math and software consulting.
+My experience:
+- Currently working in a HealthTech startup. 
+- Worked on Danish critical infrastructure.
+- Did (does) software consulting.
+- Studied pure math.
+- Worked at a Digital Agency startup.
 
 
 
@@ -22,6 +27,9 @@ My background is in university math and software consulting.
 
 `8FE6 A5D8 9AE8 C59F 3214  6384 F677 67BE 4545 A600`
 
+##### <small>VitVio</small>
+
+`95BB 6D84 477E AF5A 5C02  A690 2390 E43A 8F09 CCA6`
 
 <details>
   <summary>Revoked</summary>
