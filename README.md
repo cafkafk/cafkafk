@@ -1,19 +1,17 @@
 # Christina Sørensen — @cafkafk
 
-My open-source activities:
+Currently @ surgical ops startup. 
+
+Previously @ critical infrastructure, consulting, pure math, startup, consulting.
+
+Open-Source Activities:
 - Being the creator of [eza](https://github.com/cafkafk/eza).
-- Contributing as a [NixOS](https://github.com/nixos/nixpkgs) committer.
-- Various [Rust ecosystem work](https://crates.io/users/cafkafk).
+- Member of [NixOS](https://github.com/nixos/nixpkgs) Steering Committee, committer of [nixpkgs](https://github.com/nixos/nixpkgs).
+- Maintaining [various Rust crates](https://crates.io/users/cafkafk).
 - Occassional Cloud Native contributions.
 
-My other activities:
-- Currently working in a HealthTech startup. 
-- Worked on Danish critical infrastructure.
-- Did (does) software consulting.
-- Studied pure math.
-- Worked at a Digital Agency startup.
-
-## **GPG Keys**:
+<details>
+  <summary>GPG Keys</summary>
 
 [find public keys here (cross reference below)](https://pgp.fem.gg/pks/lookup?search=christina&fingerprint=on&hash=on&op=vindex)
 
@@ -70,5 +68,6 @@ BsYJHerdoNi5eFDfJJLFyle5+1luwN/j3aIm6TDkVQD/Y1MwQPekQGOmn+mJIJPB
 =1W1k
 -----END PGP PUBLIC KEY BLOCK-----
   </pre>
+</details>
 </details>
 </details>
