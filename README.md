@@ -7,3 +7,5 @@ Open-Source Activities:
 - Member of [NixOS](https://github.com/nixos/nixpkgs) Steering Committee, committer of [nixpkgs](https://github.com/nixos/nixpkgs).
 - Maintaining [various Rust crates](https://crates.io/users/cafkafk).
 - Occasional Cloud Native contributions.
+
+<img width="2755" height="1935" alt="image" src="https://github.com/user-attachments/assets/f6c7d68e-3f28-47ff-8171-e74aca40efaf" />
